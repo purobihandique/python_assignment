@@ -18,7 +18,7 @@ def display(students):
             print(f"id : {std["id"]} , name : {std["name"]}, grade= {std["grade"]}")
         
 
-addStu(students,1,"Pallab","A")
-addStu(students,1,"Pal","A")
+addStu(students,1,"Purobi","A")
+addStu(students,1,"Pur","A")
 
 display(students)
