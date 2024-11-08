@@ -1,6 +1,6 @@
 from catalog import available_movies
 
-rented_movies = {}  # Dictionary to store customer rentals {customer_name: [list of rented movies]}
+rented_movies = {}  
 
 def rent_movie(customer_name, movie_title):
     """Rent a movie to a customer if available."""
