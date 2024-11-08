@@ -1,4 +1,4 @@
-available_movies = []  # List to store available movies as tuples (title, genre, rental price)
+available_movies = []  
 
 def add_movie(title, genre, price):
     """Add a new movie to the catalog."""
